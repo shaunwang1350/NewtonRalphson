@@ -16,6 +16,6 @@ The forumla for Newton-Ralphson's optimization is:
 * Jupyter Notebook
 
 ## Results
-The code produced the following dataframe with custome f(x) and f'(x):
+The code produced the following dataframe with custom f(x) and f'(x):
 
 ![image1](images/dataframe1.png)
