@@ -10,10 +10,6 @@ Independent Project to implement a Newton-Ralphson one-dimension minimisation. I
 
 The forumla for Newton-Ralphson's optimization is: 
 
-$$\sum_{i=1}^n X_i$$
-
-$$ X_{i+1} $$ = $$X_{i}$$ - f(x)/f'(x)
-
 # Technologies Used
 * Pandas
 * Python
