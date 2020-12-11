@@ -18,4 +18,4 @@ The forumla for Newton-Ralphson's optimization is:
 ## Results
 The code produced the following dataframe with custome f(x) and f'(x):
 
-[image1](images/dataframe1.png)
+![image1](images/dataframe1.png)
